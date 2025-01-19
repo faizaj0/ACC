@@ -4,10 +4,7 @@
 
 This project applies the **Adaptively Calibrated Critics (ACC)** algorithm to the **BipedalWalker-v3 environment**, tackling both the easy and hardcore modes. The primary objective was to mitigate overestimation bias in Temporal Difference (TD) targets using ACC, a method that dynamically adjusts quantile truncation to enhance policy learning.
 
-<video width="640" height="360" controls>
-  <source src="nfqn37-agent-hardcore-video,episode=900,score=334.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Hardcore Mode Performance](hardcore_mode.gif)
 
 
 ### Key Contributions
