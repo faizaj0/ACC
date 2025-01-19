@@ -6,13 +6,7 @@ This project applies the **Adaptively Calibrated Critics (ACC)** algorithm to th
 
 ### Easy Mode
 <video width="640" height="360" controls>
-  <source src="nfqn37-agent-hardcore-mode=900_score=334.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-### Hardcore Mode
-<video width="640" height="360" controls>
-  <source src="nfqn37-agent-hardcore-mode=925_score=317.mp4" type="video/mp4">
+  <source src="nfqn37-agent-hardcore-video,episode=900,score=334.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
